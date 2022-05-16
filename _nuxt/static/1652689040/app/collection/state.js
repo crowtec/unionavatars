@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Funionavatars\u002F_nuxt\u002Fstatic\u002F1652689040",layout:"app",error:a,serverRendered:true,routePath:"\u002Fapp\u002Fcollection",config:{_app:{basePath:"\u002Funionavatars\u002F",assetsPath:"\u002Funionavatars\u002F_nuxt\u002F",cdnURL:a}}}}(null));

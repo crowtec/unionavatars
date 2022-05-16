@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/enjoy-avatar", {data:[{}],fetch:{},mutations:void 0});

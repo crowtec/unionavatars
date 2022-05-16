@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/app/take-photo", {data:[{}],fetch:{},mutations:void 0});
